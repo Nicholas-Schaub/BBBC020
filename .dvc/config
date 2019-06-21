@@ -1,4 +1,4 @@
 ['remote "myremote"']
-url = s3://fluoro-nuclei/
+url = s3://fluoro-nuclei/BBBC020/
 [core]
 remote = myremote
